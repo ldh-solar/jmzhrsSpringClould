@@ -17,7 +17,7 @@
     <properties>
         <spring-cloud.version>Hoxton.RELEASE</spring-cloud.version>
         <lombok.version>1.18.8</lombok.version>
-        <swagger-ui.version>2.9.1</swagger-ui.version>
+        <swagger-ui.version>2.10.0</swagger-ui.version>
     </properties>
 
     <parent>
